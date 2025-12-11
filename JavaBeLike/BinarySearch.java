@@ -1,3 +1,9 @@
+/**
+ * Problem number 704
+ * @author jeremiahhodges
+ * @version 12/9/2025
+ */
+
 public class BinarySearch {
 
     public static void main(String[] args) {
